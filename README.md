@@ -1,5 +1,5 @@
 # code_your_own_quiz
-quiz will prompt a user with a sentence containing several blanks. The user should then be asked to fill in each blank appropriately to complete the sentence. 
+Quiz will prompt a user with a sentence containing several blanks. The user should then be asked to fill in each blank appropriately to complete the sentence. 
 
 #Game Play Steps 
 1 Immediately after running the program, user is prompted to select a difficulty level from easy / medium / hard .
